@@ -1,0 +1,26 @@
+.Dictionary .Search {
+  text-align: center;
+  background: black;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 70%);
+  margin: 20px auto;
+  max-width: 1000px;
+  padding: 20px;
+}
+.Dictionary h1 {
+  color: white;
+  font-size: 60px;
+  margin-bottom: 5px;
+}
+.Dictionary input {
+  border-radius: 10px;
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+  width: 70%;
+}
+.Dictionary .hint {
+  font-size: 16px;
+  margin-top: 7px;
+  color: white;
+}
