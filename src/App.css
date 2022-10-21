@@ -26,5 +26,14 @@
 
 .App-footer {
   text-align: center;
-  margin: 20px 0;
+  margin: 20px auto;
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+  font-size: 16px;
+  max-width: 700px;
+  padding: 10px;
+}
+.App-footer a {
+  text-decoration: none;
 }

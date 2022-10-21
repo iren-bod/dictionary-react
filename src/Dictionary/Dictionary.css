@@ -24,3 +24,12 @@
   margin-top: 7px;
   color: white;
 }
+
+.Dictionary section {
+  background: black;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 70%);
+  margin: 20px auto;
+  max-width: 1000px;
+  padding: 20px;
+}
