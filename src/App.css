@@ -2,12 +2,12 @@
   max-width: 100%;
   padding: 0;
 }
-.App {
+/* .App {
   background-image: url(./img/background.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 20px;
-}
+} */
 
 .App-header {
   margin: 40px auto;
