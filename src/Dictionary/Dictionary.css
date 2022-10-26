@@ -8,7 +8,6 @@
   padding: 20px;
 }
 .Dictionary h1 {
-  color: white;
   font-size: 60px;
   margin-bottom: 5px;
 }
@@ -20,9 +19,7 @@
   width: 70%;
 }
 .Dictionary .hint {
-  font-size: 16px;
   margin-top: 7px;
-  color: white;
 }
 
 .Dictionary section {

@@ -1,12 +1,11 @@
 .Synonyms {
-  margin: 15px 0 0;
+  margin: 15px 0 15px;
   padding: 0;
 }
 
 .Synonyms li {
-  font-size: 20px;
   display: inline-block;
-  padding-right: 30px;
+  padding-right: 25px;
   color: #0d6efd;
   line-height: 1;
 }
